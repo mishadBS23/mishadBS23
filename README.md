@@ -1,5 +1,5 @@
 ###  About
-I bridge the gap between high-performance logic and beautiful UI. Currently focused on architecture in **Flutter** and **Jetpack Compose**. 
+Building mobile systems, exploring problems worth solving
 
 ### Stack
 - **Core:** `C++` • `Dart` • `Kotlin` • `Java`
